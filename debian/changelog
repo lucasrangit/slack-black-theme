@@ -1,3 +1,10 @@
+slack-black-theme (2.0-2) UNRELEASED; urgency=medium
+
+  * Update to support new HTML loading in slack desktop 3.0.2 .
+  * Use custom theme from laCour to support slack desktop 3.0.2 .
+
+ -- Lucas Magasweran <lucas.magasweran@ieee.org>  Wed, 03 Jan 2018 10:51:03 -0800
+
 slack-black-theme (1.0-1) unstable; urgency=low
 
   * Initial Release.
